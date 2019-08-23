@@ -1,0 +1,120 @@
+You have just received a project from a very important client.
+
+The Client Gave the following specifications:
+
+·         The App must be a Python application
+
+·         The app will be used to make reservations to the restaurant
+
+·         The app must allow people to book a table as well as a time for their dinner reservation
+
+·         Waiters must be able to login
+
+·         Each waiter is assigned specific tables
+
+·         A waiter must be able to add a list of things ordered for each table(Bill)
+
+·         A waiter must be able to search items to add to the bill of every table
+
+·         The total for every item on the list must be calculated when the waiter clicks the checkout button
+
+·         All data must be saved in a File of your choice
+
+Specifications that your company has in place in order to do quality control:
+
+·         All Applications must make use of a class or classes in order to keep code clean and reduce the need to rewrite code this also includes inheritance
+
+·         No code should be inserted directly into events, rather they should be added to functions and methods and only get called in the events
+
+·         Error prevention must be applied where possible
+
+·         Application must be able to check for and apply Updates
+
+·         Abstract data types must be used where possible
+
+·         In depth Testing manual must be created where the following must be included in the testing report:
+
+o    Test for calculation errors
+
+o    Record the results from testing a computer program.(Screenshots needed)
+
+o    List all errors encountered and how you got to the solution
+
+·         A comprehensive user manual must be created explaining and showcasing the app
+
+·         Thorough planning document must be created that includes the following:
+
+o    Application Flow
+
+o    Design choice as well as motivation as to choice made
+
+o    Application logic planning
+
+   
+
+The app is an Python application
+  
+
+The app will be used to make reservations to the restaurant
+
+ 
+
+The app must allow people to book a table as well as a time for their dinner reservation
+
+ 
+
+Waiters must be able to login
+
+  
+
+Each waiter is assigned specific tables
+
+ 
+
+A waiter must be able to add a list of things ordered for each table(Bill)
+ 
+
+A waiter must be able to search items to add to the bill of every table
+ 
+
+The total for every item on the list must be calculated when the waiter clicks the checkout button
+
+   
+
+Information is saved to the file of your choice
+
+
+
+The application make use of a class or classes
+
+
+
+The application make use of inheritance
+
+
+
+The Application makes use of functions and methods
+
+
+
+The application makes use of Error prevention
+
+
+
+Application is able to check for and apply Updates
+
+
+
+Abstract data types are used
+
+
+
+Testing Manual is created as requested
+
+
+
+Planning Manual is created as requested
+
+
+
+User Manual is created as requested
